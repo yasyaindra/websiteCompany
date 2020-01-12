@@ -1,0 +1,8 @@
+-membuat navbar
+-memberikan warna dg dokumentasi di materialize.com menggunakan class=""
+-membuat sidebar
+-membuat slider dg materialize/media
+- mengkustomisasi slider/dll
+-membuat progress bar dan about us
+- parallax
+- logo our clients
